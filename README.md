@@ -4,7 +4,7 @@ This repository contains the code used in the paper Bersani, Ciallella, Caressa
 "Numerical evidence for the approximation of dissipative systems by gyroscopically coupled oscillators chains"
 (to appear).
 
-The code is contained in a single script [paper_code.py](poaper_code.py).
+The code is contained in a single script [paper_code.py](paper_code.py).
 
 To perform numerical computations we used the `scipy` Python package under the Python 3.8 compiler.
 We used the simulated annealing optimization function which implements a generalized annealing
